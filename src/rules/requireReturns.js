@@ -95,7 +95,7 @@ export default iterateJsdoc(({
   contextDefaults: true,
   meta: {
     docs: {
-      description: 'Requires returns are documented.',
+      description: 'Requires that returns are documented.',
     },
     schema: [
       {

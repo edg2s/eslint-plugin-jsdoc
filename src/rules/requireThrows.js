@@ -61,6 +61,9 @@ export default iterateJsdoc(({
 }, {
   contextDefaults: true,
   meta: {
+    docs: {
+      description: 'Requires that throw statements are documented.',
+    },
     schema: [
       {
         additionalProperties: false,
